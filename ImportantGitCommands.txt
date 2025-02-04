@@ -1,5 +1,5 @@
 git clone [Website]
- - this downloads the repo to your loacl machine
+ - this downloads the repo to your local machine
 
 git add .
  - this adds all of the files you have changed or modify ready to commit
